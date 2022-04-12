@@ -1,0 +1,1 @@
+[{"Name": "Plant", "Confidence": 97.81123352050781, "Instances": [], "Parents": []}, {"Name": "Food", "Confidence": 92.36782836914062, "Instances": [], "Parents": []}, {"Name": "Pasta", "Confidence": 84.03160095214844, "Instances": [], "Parents": [{"Name": "Food"}]}, {"Name": "Produce", "Confidence": 82.2086410522461, "Instances": [], "Parents": [{"Name": "Food"}]}]

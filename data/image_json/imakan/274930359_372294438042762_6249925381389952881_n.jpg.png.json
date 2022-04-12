@@ -1,0 +1,1 @@
+[{"Name": "Book", "Confidence": 100.0, "Instances": [{"BoundingBox": {"Width": 0.8556762933731079, "Height": 0.689003586769104, "Left": 0.0384870320558548, "Top": 0.2946045994758606}, "Confidence": 100.0}], "Parents": []}, {"Name": "Text", "Confidence": 99.2303695678711, "Instances": [], "Parents": []}]
