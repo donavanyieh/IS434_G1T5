@@ -1,0 +1,1 @@
+[{"Name": "Cross", "Confidence": 85.11563110351562, "Instances": [{"BoundingBox": {"Width": 0.8728871941566467, "Height": 0.8943106532096863, "Left": 0.05510067567229271, "Top": 0.10054876655340195}, "Confidence": 85.11563110351562}], "Parents": [{"Name": "Symbol"}]}, {"Name": "Symbol", "Confidence": 85.11563110351562, "Instances": [], "Parents": []}]

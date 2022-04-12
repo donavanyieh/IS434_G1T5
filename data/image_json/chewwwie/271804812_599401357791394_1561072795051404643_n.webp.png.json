@@ -1,0 +1,1 @@
+[{"Name": "Hot Dog", "Confidence": 99.9009017944336, "Instances": [{"BoundingBox": {"Width": 0.9072980880737305, "Height": 0.6090855002403259, "Left": 0.055305905640125275, "Top": 0.21353253722190857}, "Confidence": 99.9009017944336}], "Parents": [{"Name": "Food"}]}, {"Name": "Food", "Confidence": 99.9009017944336, "Instances": [], "Parents": []}]
