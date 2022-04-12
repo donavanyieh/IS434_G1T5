@@ -1,0 +1,1 @@
+[{"Name": "Flag", "Confidence": 99.45793914794922, "Instances": [{"BoundingBox": {"Width": 0.45128992199897766, "Height": 0.3585584759712219, "Left": 0.5398379564285278, "Top": 0.3224538564682007}, "Confidence": 97.3719482421875}], "Parents": [{"Name": "Symbol"}]}, {"Name": "Symbol", "Confidence": 99.45793914794922, "Instances": [], "Parents": []}]

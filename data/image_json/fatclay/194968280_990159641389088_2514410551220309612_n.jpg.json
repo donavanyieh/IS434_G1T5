@@ -1,0 +1,1 @@
+[{"Name": "Gate", "Confidence": 96.98872375488281, "Instances": [{"BoundingBox": {"Width": 0.9805052280426025, "Height": 0.6416541337966919, "Left": 0.008081696927547455, "Top": 0.34418749809265137}, "Confidence": 96.98872375488281}], "Parents": []}, {"Name": "Field", "Confidence": 92.26326751708984, "Instances": [], "Parents": []}]

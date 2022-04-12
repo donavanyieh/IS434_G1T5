@@ -1,0 +1,1 @@
+[{"Name": "Bow", "Confidence": 93.58732604980469, "Instances": [{"BoundingBox": {"Width": 0.751765787601471, "Height": 0.7096609473228455, "Left": 0.09761471301317215, "Top": 0.25875169038772583}, "Confidence": 93.58732604980469}], "Parents": []}, {"Name": "Spider Web", "Confidence": 91.5981674194336, "Instances": [], "Parents": []}]

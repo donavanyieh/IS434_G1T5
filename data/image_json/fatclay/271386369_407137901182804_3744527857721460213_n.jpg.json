@@ -1,0 +1,1 @@
+[{"Name": "First Aid", "Confidence": 98.47045135498047, "Instances": [], "Parents": []}, {"Name": "Bandage", "Confidence": 89.41215515136719, "Instances": [], "Parents": [{"Name": "First Aid"}]}]

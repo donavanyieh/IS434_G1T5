@@ -1,0 +1,1 @@
+[{"Name": "Sink Faucet", "Confidence": 99.40995025634766, "Instances": [{"BoundingBox": {"Width": 0.5536222457885742, "Height": 0.6859665513038635, "Left": 0.15862566232681274, "Top": 0.2321552038192749}, "Confidence": 99.40995025634766}], "Parents": []}, {"Name": "Sink", "Confidence": 81.875244140625, "Instances": [], "Parents": []}]

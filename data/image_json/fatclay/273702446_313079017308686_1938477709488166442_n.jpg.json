@@ -1,0 +1,1 @@
+[{"Name": "Graphics", "Confidence": 94.03968811035156, "Instances": [], "Parents": [{"Name": "Art"}]}, {"Name": "Art", "Confidence": 94.03968811035156, "Instances": [], "Parents": []}, {"Name": "Envelope", "Confidence": 85.09431457519531, "Instances": [], "Parents": []}, {"Name": "Mail", "Confidence": 80.3507308959961, "Instances": [], "Parents": [{"Name": "Envelope"}]}]

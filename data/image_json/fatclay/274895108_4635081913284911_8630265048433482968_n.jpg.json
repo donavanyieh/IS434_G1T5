@@ -1,0 +1,1 @@
+[{"Name": "Painting", "Confidence": 88.2741928100586, "Instances": [{"BoundingBox": {"Width": 0.9788398146629333, "Height": 0.9937061071395874, "Left": 0.004584799986332655, "Top": 0.005738051142543554}, "Confidence": 88.2741928100586}], "Parents": [{"Name": "Art"}]}, {"Name": "Art", "Confidence": 88.2741928100586, "Instances": [], "Parents": []}]
