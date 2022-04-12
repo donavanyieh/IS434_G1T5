@@ -1,0 +1,1 @@
+[{"Name": "Appliance", "Confidence": 97.94303894042969, "Instances": [], "Parents": []}, {"Name": "Oven", "Confidence": 86.13327026367188, "Instances": [], "Parents": [{"Name": "Appliance"}]}, {"Name": "Cooker", "Confidence": 80.39071655273438, "Instances": [], "Parents": [{"Name": "Appliance"}]}]

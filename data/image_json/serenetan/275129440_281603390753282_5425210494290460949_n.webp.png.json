@@ -1,0 +1,1 @@
+[{"Name": "Comics", "Confidence": 94.36924743652344, "Instances": [], "Parents": [{"Name": "Book"}]}, {"Name": "Book", "Confidence": 94.36924743652344, "Instances": [], "Parents": []}, {"Name": "Manga", "Confidence": 93.8435287475586, "Instances": [], "Parents": [{"Name": "Comics"}, {"Name": "Book"}]}]

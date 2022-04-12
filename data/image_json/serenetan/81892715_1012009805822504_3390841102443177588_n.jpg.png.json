@@ -1,0 +1,1 @@
+[{"Name": "Building", "Confidence": 98.9621353149414, "Instances": [], "Parents": []}, {"Name": "Hotel", "Confidence": 98.45518493652344, "Instances": [], "Parents": [{"Name": "Building"}]}, {"Name": "Resort", "Confidence": 97.712646484375, "Instances": [], "Parents": [{"Name": "Hotel"}, {"Name": "Building"}]}]
